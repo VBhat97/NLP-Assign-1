@@ -1,1 +1,1 @@
-# NLP-Assign-1
+This project consists of 1-Dimensional Convolutional Neural Network model. The model is built on housing dataset which intakes the 8 columns as an input for training and predicts the median housing value. Regression is done on the dataset and is split into testing and training set. The metrics used to compare different algorithms are L1Loss and R2 Score. A custom method to train the new model in batches is created and let it run for a set number of epochs. We then test it on the testing data to get the given metrics.
