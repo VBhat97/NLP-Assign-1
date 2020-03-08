@@ -1,7 +1,6 @@
 {
   "name": "HackerWeb",
   "start_url": ".",
-  "short_name":"HackerWeb",
   "display": "standalone",
   "background_color": "#fff",
   "description": "A simply readable Hacker News app.",
